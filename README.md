@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahi1259
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning in sv university
+- 🌱 I’m currently studying in sv university
 
 
 <!---
