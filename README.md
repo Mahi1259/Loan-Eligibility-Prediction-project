@@ -1,6 +1,3 @@
-# Loan-Prediction-Dataset
-
-From the challange hosted at: https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
 ## Problem Statement:
 
 Dream Housing Finance company deals in all home loans. They have presence across all urban, semi urban and rural areas. Customer first apply for home loan after that company validates the customer eligibility for loan.
@@ -25,4 +22,3 @@ Credit_History | credit history meets guidelines
 Property_Area | Urban/ Semi Urban/ Rural
 Loan_Status | Loan approved (Y/N)
 
-I have applied PCA algorithm to reduce the data into two dimensions to visualize the classification of data using some classification techniques.
